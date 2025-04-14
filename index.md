@@ -1,4 +1,4 @@
-# this is the H1 header
+q# this is the H1 header
 ## this is the H2 header
 ### this is the H3 header
 #### this is the H4 header
@@ -6,6 +6,10 @@
 ###### this is the H6 header
 
 So meaningful
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
 
 ```
 $ git init
